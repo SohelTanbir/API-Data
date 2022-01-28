@@ -8,30 +8,30 @@
 	{"id":"2",
 	"country":"Bangladshsh", 
 	"year":"1950",
-	"population":"2786596"
+	"population":"2086596"
 	},
 	
 	{"id":"3",
 	"country":"Bangladshsh", 
 	"year":"1960",
-	"population":"9876975"
+	"population":"5876975"
 	},
 	
 	{"id":"4", 
 		"country":"Bangladshsh",
 		 "year":"1970", 
-		"population":"88768746"
+		"population":"4768746"
 	},
 	{"id":"5", 
 		"country":"Bangladshsh",
 		 "year":"1980", 
-		"population":"6459865"
+		"population":"5059865"
 	},
 
 	{"id":"6",
 		 "country":"Bangladshsh",
 		 "year":"1990", 
-		"population":"2009890"
+		"population":"2209890"
 	},
 
 	{"id":"7", 
@@ -43,19 +43,19 @@
 	{"id":"8", 
 		"country":"Bangladshsh",
 		 "year":"2010", 
-		"population":"1296540"
+		"population":"1796540"
 	},
 
 	{"id":"9",
 		 "country":"Bangladshsh", 
 		"year":"2020", 
-		"population":"988765"
+		"population":"608765"
 	},
 
 	{"id":"10", 
 		"country":"Bangladshsh", 
 		"year":"2030", 
-		"population":"798887"
+		"population":"4998887"
 	}
 
 ]
