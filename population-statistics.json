@@ -1,12 +1,12 @@
-{"data":[{"ID Nation":"1","Nation":"United States","Year":"2020","Population":32823},
-{"ID Nation":"2","Nation":"United States","Year":"2010","Population":327439},
-{"ID Nation":"4","Nation":"United States","Year":"2000","Population":9178},
-{"ID Nation":"5","Nation":"United States","Year":"1990","Population":32315},
-{"ID Nation":"6","Nation":"United States","Year":"1980","Population":821},
-{"ID Nation":"7","Nation":"United States","Year":"1970","Population":3188},
-{"ID Nation":"8","Nation":"United States","Year":"1960","Population":312}
-{"ID Nation":"9","Nation":"United States","Year":"1950","Population":31002}
-{"ID Nation":"10","Nation":"United States","Year":"1940","Population":1002}
-{"ID Nation":"11","Nation":"United States","Year":"1930","Population":5678}
+{"data":[{"ID Nation":"1","Nation":"United States","Year":"2020","Population":"32823"},
+{"ID Nation":"2","Nation":"United States","Year":"2010","Population":"327439"},
+{"ID Nation":"4","Nation":"United States","Year":"2000","Population":"9178"},
+{"ID Nation":"5","Nation":"United States","Year":"1990","Population":"32315"},
+{"ID Nation":"6","Nation":"United States","Year":"1980","Population":"821"},
+{"ID Nation":"7","Nation":"United States","Year":"1970","Population":"3188"},
+{"ID Nation":"8","Nation":"United States","Year":"1960","Population":"312"}
+{"ID Nation":"9","Nation":"United States","Year":"1950","Population":"31002"}
+{"ID Nation":"10","Nation":"United States","Year":"1940","Population":"1002"}
+{"ID Nation":"11","Nation":"United States","Year":"1930","Population":"5678"}
 ]
 }
