@@ -1,0 +1,194 @@
+[
+    {
+        "id":1,
+        "country":"Brazil",
+        "deaths":"720",
+		"year":"03-2020",
+		"confirmed": "174332",
+        "month":"January"
+    },
+    {
+        "id":2,
+        "country":"Brazil",
+        "deaths":"232",
+		"year":"04-2020",
+		"confirmed": "122332",
+        "month":"February"
+    },
+    {
+        "id":3,
+        "country":"Brazil",
+        "deaths":"1522",
+		"year":"05-2020",
+		"confirmed": "11332",
+            "month":"March"
+    },
+    {
+        "id":4,
+        "country":"Brazil",
+        "deaths":"1223",
+		"year":"06-2020",
+		"confirmed": "23132",
+            "month":"April"
+    },
+    {
+        "id":5,
+        "country":"Brazil",
+        "deaths":"2033",
+		"year":"06-2020",
+		"confirmed": "1432",
+            "month":"May"
+    },
+    {
+        "id":6,
+        "country":"Brazil",
+        "deaths":"3632",
+		"year":"07-2020",
+		"confirmed": "643532",
+            "month":"June"
+    },
+    {
+        "id":7,
+        "country":"Brazil",
+        "deaths":"4532",
+		"year":"07-2020",
+		"confirmed": "42132",
+            "month":"July"
+    },
+    {
+        "id":8,
+        "country":"Brazil",
+        "deaths":"3012",
+		"year":"07-2020",
+		"confirmed": "333322",
+            "month":"August"
+    },
+	{
+        "id":9,
+        "country":"Brazil",
+        "deaths":"2342",
+		"year":"07-2020",
+		"confirmed": "96832",
+            "month":"September"
+    },
+	{
+        "id":10,
+        "country":"Brazil",
+        "deaths":"7603",
+		"year":"07-2020",
+		"confirmed": "5343232",
+            "month":"October"
+    },
+	{
+        "id":11,
+        "country":"Brazil",
+        "deaths":"4533",
+		"year":"07-2020",
+		"confirmed": "3032",
+            "month":"November"
+    },
+	{
+        "id":12,
+        "country":"Brazil",
+        "deaths":"4543",
+		"year":"07-2020",
+		"confirmed": "114132",
+            "month":"December"
+    },
+	{
+        "id":13,
+        "country":"Brazil",
+        "deaths":"2345",
+		"year":"01-2021",
+		"confirmed": "484432",
+            "month":"January"
+    },
+	{
+        "id":14,
+        "country":"Brazil",
+        "deaths":"5006",
+		"year":"02-2021",
+		"confirmed": "84032",
+            "month":"February"
+    },
+	{
+        "id":15,
+        "country":"Brazil",
+        "deaths":"7312",
+		"year":"03-2021",
+		"confirmed": "2132",
+            "month":"March"
+    },
+	{
+        "id":16,
+        "country":"Brazil",
+        "deaths":"8012",
+		"year":"04-2021",
+		"confirmed": "68332",
+        "month":"April"
+    },
+	{
+        "id":17,
+        "country":"Brazil",
+        "deaths":"4778",
+		"year":"05-2021",
+		"confirmed": "95632",
+        "month":"May"
+    },
+	{
+        "id":18,
+        "country":"Brazil",
+        "deaths":"7300",
+		"year":"06-2021",
+		"confirmed": "1033932",
+        "month":"June"
+    },
+	{
+        "id":19,
+        "country":"Brazil",
+        "deaths":"9098",
+		"year":"07-2032",
+		"confirmed": "246354",
+            "month":"July"
+    },
+	{
+        "id":20,
+        "country":"Brazil",
+        "deaths":"5422",
+		"year":"08-2021",
+		"confirmed": "2888832",
+            "month":"August"
+    },
+	{
+        "id":21,
+        "country":"Brazil",
+        "deaths":"6706",
+		"year":"09-2021",
+		"confirmed": "17432",
+            "month":"September"
+    },
+	{
+        "id":22,
+        "country":"Brazil",
+        "deaths":"8765",
+		"year":"10-2021",
+		"confirmed": "15432",
+            "month":"October"
+    },
+	{
+        "id":23,
+        "country":"Brazil",
+        "deaths":"6532",
+		"year":"11-2021",
+		"confirmed": "214132",
+            "month":"November"
+    },
+	{
+        "id":24,
+        "country":"Brazil",
+        "deaths":"2111",
+		"year":"12-2021",
+		"confirmed": "141232",
+            "month":"December"
+    }
+]
