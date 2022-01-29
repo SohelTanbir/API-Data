@@ -2,7 +2,7 @@
     {
         "id":1,
         "country":"Japan",
-        "deaths":"23122",
+        "deaths":"122",
 		"year":"03-2020",
 		"confirmed": "174332",
         "month":"January"
@@ -10,7 +10,7 @@
     {
         "id":2,
         "country":"Japan",
-        "deaths":"32232",
+        "deaths":"232",
 		"year":"04-2020",
 		"confirmed": "122332",
         "month":"February"
@@ -18,7 +18,7 @@
     {
         "id":3,
         "country":"Japan",
-        "deaths":"5322",
+        "deaths":"522",
 		"year":"05-2020",
 		"confirmed": "11332",
             "month":"March"
@@ -26,7 +26,7 @@
     {
         "id":4,
         "country":"Japan",
-        "deaths":"9723",
+        "deaths":"1023",
 		"year":"06-2020",
 		"confirmed": "23132",
             "month":"April"
@@ -34,7 +34,7 @@
     {
         "id":5,
         "country":"Japan",
-        "deaths":"5433",
+        "deaths":"2433",
 		"year":"06-2020",
 		"confirmed": "1432",
             "month":"May"
@@ -42,7 +42,7 @@
     {
         "id":6,
         "country":"Japan",
-        "deaths":"8632",
+        "deaths":"3632",
 		"year":"07-2020",
 		"confirmed": "643532",
             "month":"June"
@@ -50,7 +50,7 @@
     {
         "id":7,
         "country":"Japan",
-        "deaths":"543",
+        "deaths":"1543",
 		"year":"07-2020",
 		"confirmed": "42132",
             "month":"July"
@@ -82,7 +82,7 @@
 	{
         "id":11,
         "country":"Japan",
-        "deaths":"2133",
+        "deaths":"4133",
 		"year":"07-2020",
 		"confirmed": "3032",
             "month":"November"
@@ -106,7 +106,7 @@
 	{
         "id":14,
         "country":"Japan",
-        "deaths":"2786",
+        "deaths":"5786",
 		"year":"02-2021",
 		"confirmed": "84032",
             "month":"February"
@@ -130,7 +130,7 @@
 	{
         "id":17,
         "country":"Bangladesh",
-        "deaths":"22322",
+        "deaths":"6322",
 		"year":"05-2021",
 		"confirmed": "95632",
         "month":"May"
@@ -138,7 +138,7 @@
 	{
         "id":18,
         "country":"Japan",
-        "deaths":"26335",
+        "deaths":"7335",
 		"year":"06-2021",
 		"confirmed": "1033932",
         "month":"June"
@@ -146,7 +146,7 @@
 	{
         "id":19,
         "country":"Jap32",
-        "deaths":"71234",
+        "deaths":"7134",
 		"year":"07-2032",
 		"confirmed": "246354",
             "month":"July"
@@ -154,7 +154,7 @@
 	{
         "id":20,
         "country":"Japan",
-        "deaths":"22122",
+        "deaths":"2222",
 		"year":"08-2021",
 		"confirmed": "2888832",
             "month":"August"
@@ -162,7 +162,7 @@
 	{
         "id":21,
         "country":"Japan",
-        "deaths":"6766",
+        "deaths":"6706",
 		"year":"09-2021",
 		"confirmed": "17432",
             "month":"September"
